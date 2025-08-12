@@ -6,4 +6,4 @@ Here the documentation that I use to write the program of filter:\
 ► Appunti di elettronica applicata by prof. Claudio Sansoè
 
 > [!CAUTION]
-> As already mentioned, there may be errors, I take no responsibility for any failed tests, burnt laboratory components (--> and any kgs of cookies 😜) or for any other problem!
+> As already mentioned, there may be errors, I take no responsibility for any failed tests, burnt laboratory components (--> and any kg of cookies 😜) or for any other problem!
