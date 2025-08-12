@@ -3,7 +3,7 @@ Hi! After taking the exam of [electronics for mechatronic systems](https://didat
 
 Here the documentation that I use to write the program of filter:\
 ► Chapter 16. Active Filter Design Techniques, Texas Instrument DOI:[10.1016/B978-075067701-1/50019-5](http://dx.doi.org/10.1016/B978-075067701-1/50019-5)\
-► Appunti di elettronica applicata by prof. Claudio Sansoè\
+► Appunti di elettronica applicata by prof. Claudio Sansoè
 
 > [!CAUTION]
 > As already mentioned, there may be errors, I take no responsibility for any failed tests, burnt laboratory components (--> and any kgs of cookies 😜) or for any other problem!
